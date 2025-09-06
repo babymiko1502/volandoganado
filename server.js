@@ -317,5 +317,4 @@ setInterval(async () => {
   } catch (error) {
     console.error("❌ Error en auto-ping:", error.message);
   }
-
 }, 180000); // 180000 ms = 3 minutos
